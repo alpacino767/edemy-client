@@ -34,4 +34,4 @@ import { EditOutlined } from '@ant-design/icons'
     </Modal>
   )
 }
-export default CategoryUpdatemodal
+export default CategoryUpdatemodal;

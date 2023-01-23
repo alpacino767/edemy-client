@@ -6,7 +6,8 @@ import { EditOutlined } from '@ant-design/icons';
 import axios from 'axios'
 import { toast } from 'react-hot-toast'
 // import Item from 'antd/lib/list/Item';
-import CategoryUpdatemodal from '../../../components/modal/CategoryUpdatemodal';
+
+import CategoryUpdatemodal from '../../../components/modal/CategoryUpdateModal';
 import { PostContext } from '../../../context/post'
 
 const { Content, Sider } = Layout;
