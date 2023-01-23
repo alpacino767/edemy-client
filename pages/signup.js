@@ -15,7 +15,7 @@ function Signup () {
   const [auth, setAuth] = useContext(AuthContext)
     // hook
     const router = useRouter()
-    (router);
+    // (router);
 
   //  state
    const [loading, setLoading] = useState (false)
